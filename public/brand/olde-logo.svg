@@ -1,0 +1,27 @@
+<svg width="960" height="240" viewBox="0 0 960 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="34" y1="24" x2="198" y2="212" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="72" y1="68" x2="190" y2="184" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FACC15"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="959" height="239" rx="32" fill="white"/>
+  <g transform="translate(28 24)">
+    <rect x="0" y="0" width="192" height="192" rx="44" fill="url(#bg)"/>
+    <path d="M50 152V74C50 64.0589 58.0589 56 68 56H92V150H68C58.0589 150 50 141.941 50 132Z" fill="url(#accent)"/>
+    <path d="M92 56H138C147.941 56 156 64.0589 156 74V88H110C100.059 88 92 79.9411 92 70V56Z" fill="#F8FAFC" fill-opacity="0.95"/>
+    <path d="M110 100H156V132C156 141.941 147.941 150 138 150H110V100Z" fill="#F8FAFC" fill-opacity="0.93"/>
+    <path d="M74 36C95.5 21.5 123.5 21.5 145 36" stroke="#FACC15" stroke-width="8" stroke-linecap="round" opacity="0.95"/>
+    <path d="M68 22C94 3.5 126 3.5 152 22" stroke="#F8FAFC" stroke-width="6" stroke-linecap="round" opacity="0.32"/>
+    <circle cx="146" cy="158" r="22" fill="url(#accent)"/>
+    <path d="M137 158L144 165L157 151" stroke="#0F172A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="252" y="110" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="900" letter-spacing="1.5" fill="#0F172A">OLD</text>
+  <text x="467" y="110" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="900" letter-spacing="1.5" fill="#F59E0B">E</text>
+  <text x="252" y="160" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#334155">建機安全AIシステム</text>
+  <text x="252" y="199" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#94A3B8">Excavator Rear Safety AI</text>
+</svg>
