@@ -2,7 +2,7 @@ import { pricingPlans } from '../lib/site-data'
 
 const adopters = [
   {
-    name: '株式会社鴨下設備',
+    name: '鴨下設備工業株式会社',
     url: 'https://kamoshita-setsubi.com/',
     logo: '/brand/kamoshita-logo.png',
   },

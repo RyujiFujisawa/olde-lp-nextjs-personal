@@ -54,7 +54,7 @@ export default function Hero() {
           <div className="relative">
             <div className="card overflow-hidden border-brand-100 bg-white/90 p-4 shadow-panel sm:p-6">
               <img
-                src="/images/hero/olde-hero-scene.png"
+                src="/images/hero/MsnVZ1AP.png"
                 alt="ユンボ後方の危険エリアを監視するOLDEのイメージ"
                 className="w-full rounded-[28px] object-cover"
               />
